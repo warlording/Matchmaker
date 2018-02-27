@@ -1,0 +1,1 @@
+module.exports = [{"name":"Tanner","photo":"https://i.imgur.com/MpOlt0l.jpg","answers":["2","5","5","4","5","1","1","2","2","2"]}];
